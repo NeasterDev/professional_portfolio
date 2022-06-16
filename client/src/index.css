@@ -1,0 +1,13 @@
+@import "../node_modules/bootstrap/";
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alfa+Slab+One&family=Righteous&display=swap');
+
+.navbar-brand {
+    font-family: 'Acme', sans-serif;
+    font-size: 2rem;
+}
+
+.nav-item {
+    font-family: 'Acme', sans-serif;
+    font-size: 1.5rem;
+}
+
